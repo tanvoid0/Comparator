@@ -1,12 +1,14 @@
 # Road Bike Comparison
 
 ## [Triban RC 120](https://www.decathlon.co.uk/p/road-bike-triban-rc-120-grey/_/R-p-308062?mc=8554264)
+```
   £350
   Weight: 10.9 kg
   Frame: Aluminium
   Fork: Carbon
   Wheels: 700c
   Brakes: Rim
+```
 
 ## [Triban RC 120 DISC](https://www.decathlon.co.uk/p/road-bike-triban-rc-120-disc-brake/_/R-p-302301?mc=8619132)
 £500
