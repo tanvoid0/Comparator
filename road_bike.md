@@ -1,5 +1,31 @@
 # Road Bike Comparison
 
+## First Bike
+### Vitus Razor W
+
+
+# Buying List
+- Lock
+- Front and Rear Lights
+- Pump Spare & Tools
+- Multi tool for repairs
+- Mudguards
+- Bottle Cage
+
+# Nice to have 
+- Helmet
+- Bike Clothing
+- Gloves
+- Waterproof Jacket
+- Clipless pedals
+- Cycling Shoes
+- Eyeware
+
+# Upgrades
+- Non-puncheable tyres
+
+
+
 ## [Triban RC 120](https://www.decathlon.co.uk/p/road-bike-triban-rc-120-grey/_/R-p-308062?mc=8554264)
 ```
   £350
@@ -42,23 +68,3 @@
   Gropuset: Shimano
   Brake: Mechanical Disc
 ```
-
-# Buying List
-- Lock
-- Front and Rear Lights
-- Pump Spare & Tools
-- Multi tool for repairs
-- Mudguards
-- Bottle Cage
-
-# Nice to have 
-- Helmet
-- Bike Clothing
-- Gloves
-- Waterproof Jacket
-- Clipless pedals
-- Cycling Shoes
-- Eyeware
-
-# Upgrades
-- Schwalbe Marathon tyre
