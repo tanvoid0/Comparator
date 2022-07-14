@@ -42,3 +42,20 @@
   Gropuset: Shimano
   Brake: Mechanical Disc
 ```
+
+# Buying List
+- Lock
+- Front and Rear Lights
+- Pump Spare & Tools
+- Multi tool for repairs
+- Mudguards
+- Bottle Cage
+
+# Nice to have 
+- Helmet
+- Bike Clothing
+- Waterproof Jacket
+- Clipless pedals
+- Cycling Shoes
+- Eyeware
+
