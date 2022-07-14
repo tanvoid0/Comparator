@@ -54,8 +54,11 @@
 # Nice to have 
 - Helmet
 - Bike Clothing
+- Gloves
 - Waterproof Jacket
 - Clipless pedals
 - Cycling Shoes
 - Eyeware
 
+# Upgrades
+- Schwalbe Marathon tyre
